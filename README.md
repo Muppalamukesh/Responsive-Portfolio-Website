@@ -16,11 +16,5 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript wi
 - **CSS3** – Styling and responsive layout
 - **JavaScript (Vanilla)** – Interactive features and smooth scroll
 
-## 📸 Screenshots
-*(Add screenshots here once deployed)*
 
-## 🚀 Live Demo
-[View Portfolio Website](https://yourusername.github.io/Responsive-Portfolio-Website)
-
-## 📂 Project Structure
 
